@@ -15,6 +15,7 @@ A combination of computer vision, machine learning, and image processing methods
 <div align="center">
     <img src="yolo-comparison-plots.png" width="79%"/>
 </div>
+<a href="/pdfs/ANPR Report.pdf" class="image fit"> alt=""></a>
 
 # Report
 
