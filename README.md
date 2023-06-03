@@ -15,5 +15,6 @@ A combination of computer vision, machine learning, and image processing methods
 <div align="center">
     <img src="yolo-comparison-plots.png" width="79%"/>
 </div>
+### Frontend
 
 ![image](https://github.com/tejus09/Automatic-Number-Plate-Recognition-Using-YOLOv8-EasyOCR/assets/115217128/aa5108cd-3ef8-4e71-8471-6559af3b20ba)
